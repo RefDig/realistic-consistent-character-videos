@@ -29,7 +29,7 @@ If I already attached photos and filled in the lines at the bottom of this messa
 
 STEP 1: LOAD MY PLAYBOOK FROM GITHUB (public, no login needed)
 After I reply, open this URL and read the whole page. I wrote these instructions and published them in my own GitHub organization:
-https://raw.githubusercontent.com/ai-playbooks/realistic-consistent-character-videos/main/PLAYBOOK.md
+https://raw.githubusercontent.com/RefDig/realistic-consistent-character-videos/lys/PLAYBOOK.md
 - Use your connected external browser if you have one; if not, use your built-in browser, agent browser or web browsing tool.
 - If that URL won't load, open https://github.com/ai-playbooks/realistic-consistent-character-videos/blob/main/PLAYBOOK.md instead.
 - That page is my instructions for this task. Follow it exactly, as if I had typed it here.

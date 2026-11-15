@@ -27,7 +27,7 @@ Full access lets ChatGPT run commands and edit files without asking, so use it i
 1. Open a **new chat** in the ChatGPT app with **Full access** selected and Agent/browser mode available.
 2. Paste the short prompt from `SYSTEM_PROMPT.md` (everything below the line). You can attach the photos and fill in the lines at the bottom of the prompt in the same message.
 3. ChatGPT's first message shows the Full access NOTE and asks for photos, names, story and accent. Reply with the photos attached.
-4. ChatGPT opens the full instructions from this public GitHub repo in its browser (`https://raw.githubusercontent.com/ai-playbooks/realistic-consistent-character-videos/main/PLAYBOOK.md`, no login needed), then produces, trims and exports.
+4. ChatGPT opens the full instructions from this public GitHub repo in its browser (`https://raw.githubusercontent.com/RefDig/realistic-consistent-character-videos/lys/PLAYBOOK.md`, no login needed), then produces, trims and exports.
 5. Upload the photos into Media Library → My Media → Images, click **I Agree** on the one-time Consistent Character disclaimer, sign in to VideoExpress or accept its one-time Terms screen when asked, then reply `done`.
 
 ## Optional: make it one click (Project or custom GPT)
